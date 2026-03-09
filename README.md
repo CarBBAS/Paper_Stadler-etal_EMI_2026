@@ -2,7 +2,7 @@
 
 ---
 
-### 	Identifying reactive components of microbes and organic matter reveals unique links along aquatic networks :microbe::national_park::droplet:
+### 	Identifying reactive components of bacterioplankton and organic matter reveals unique links along aquatic networks :microbe::national_park::droplet:
 
 Authored by: Masumi Stadler, François Guillemette, Trista J. Vick-Majors and Paul A. del Giorgio
 
