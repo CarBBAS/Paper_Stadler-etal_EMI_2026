@@ -600,7 +600,7 @@ cent.df <- nmds.df[, .(MDS1 = mean(MDS1),
 
 nmds.df <- nmds.df %>% dplyr::select(-MDS1, -MDS2)
 # save as 2015 meta file
-write.table(nmds.df, "./Data/Summary/2015_metadata.csv", sep = ",", row.names = F)
+# write.table(nmds.df, "./Data/Summary/2015_metadata.csv", sep = ",", row.names = F)
 
 # 2016 --------------------------------------------------------------------------------------------------------
 # extract "community matrix"
@@ -727,7 +727,7 @@ cent.df <- nmds.df[, .(MDS1 = mean(MDS1),
 nmds.df <- nmds.df %>% dplyr::select(-MDS1, -MDS2)
 
 # save as 2016 meta file
-write.table(nmds.df, "./Data/Summary/2016_metadata.csv", sep = ",", row.names = F)
+#write.table(nmds.df, "./Data/Summary/2016_metadata.csv", sep = ",", row.names = F)
 
 # Remove outliers from cross table
 # 2015
